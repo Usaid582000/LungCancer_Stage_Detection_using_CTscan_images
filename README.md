@@ -4,6 +4,7 @@ In this repository, I have used python with tensorflow (Keras) to train my deep 
 The ACCURACY of this MODEL is FOUND TO BE 84.76% 
 
 I have used a dataset of 1000 images of CTscan images imported from Kaggle. all thanks to user https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images.
+
 This repository is the working project or mini_project to showcase my machine learning skills.
 The model is save as lung_cancer_model.keras to used by other users.
 
